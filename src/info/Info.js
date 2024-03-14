@@ -21,73 +21,72 @@ of what each of the values mean.
  */
 
 export const info = {
-  resume: "https://www.google.com",
-  firstName: "Adway",
-  lastName: "Lachhiramka",
-  initials: "js", // the example uses first and last, but feel free to use three or more if you like.
-  position: "Full Stack Developer",
+  resume: "https://drive.google.com/file/d/1iCssluOuNzMyuVPFJxIhZyNWQSCqc1si/view?usp=sharing",
+  firstName: "Ankit ",
+  lastName: "Kumar",
+  initials: "AK", // the example uses first and last, but feel free to use three or more if you like.
+  position: "Software Developer",
   selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
   gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
   baseColor: colors[0],
   miniBio: [
     // these are just some "tidbits" about yourself.
     {
-      emoji: "☕",
-      text: "fueled by coffee",
+      emoji: "👨🏾‍💻",
+      text: "creative problem solver",
     },
     {
       emoji: "🌎",
-      text: "based in India",
+      text: "Indian",
     },
     {
-      emoji: "💼",
-      text: "MLSA KIIT",
+      emoji: "🎓",
+      text: "KIIT UNIVERSITY",
     },
     {
       emoji: "📧",
-      text: "adwaylachhiramka@gmail.com",
+      text: "ankitwork139@gmail.com",
     },
   ],
   socials: [
+    // {
+    //   link: "https://facebook.com",
+    //   icon: "fa fa-facebook",
+    //   label: "facebook",
+    // },
+    
     {
-      link: "https://facebook.com",
-      icon: "fa fa-facebook",
-      label: "facebook",
-    },
-    {
-      link: "https://instagram.com",
-      icon: "fa fa-instagram",
-      label: "instagram",
-    },
-    {
-      link: "https://github.com",
+      link: "https://github.com/Ankit-kr13",
       icon: "fa fa-github",
       label: "github",
     },
     {
-      link: "https://linkedin.com",
+      link: "https://www.linkedin.com/in/ankit-kumar-5b1b68205/",
       icon: "fa fa-linkedin",
       label: "linkedin",
     },
     {
-      link: "https://twitter.com",
+      link: "https://instagram.com/_ankitkumarr",
+      icon: "fa fa-instagram",
+      label: "instagram",
+    },
+    {
+      link: "https://x.com/AnkitKu04245299?t=oFwiE5eeTEQC8ZVr2R86Wg&s=09",
       icon: "fa fa-twitter",
       label: "twitter",
     },
   ],
-  bio: "Hello! I'm adway. I am a web developer and i love building beautiful digital experiences",
+  bio: "Hello! I'm ankit. I am a software developer and i love building beautiful digital experiences",
   skills: {
     proficientWith: [
-      "javascript",
-      "react",
+      "c++",
+      "kotlin",
       "git",
       "github",
-      "bootstrap",
-      "html5",
-      "css3",
+      "sql",
       "figma",
     ],
-    exposedTo: ["nodejs", "python", "Java", "C"],
+    exposedTo: ["html","css","python" ,  "C",   "Java",  ],
   },
   hobbies: [
     {
@@ -95,8 +94,8 @@ export const info = {
       emoji: "📖",
     },
     {
-      label: "theater",
-      emoji: "🎭",
+      label: "Basketball",
+      emoji: "🏀",
     },
     {
       label: "movies",
