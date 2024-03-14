@@ -58,7 +58,7 @@ export default function BaseLayout() {
           >
             <p>
               template created with &hearts; by{" "}
-              <a href={"https://mlsakiit.com"}>MLSA KIIT</a>
+              <a href={"https://kumarankit.vercel.app/"}>Ankit Kumar</a>
             </p>
             <p>&copy; 2024</p>
           </Box>
