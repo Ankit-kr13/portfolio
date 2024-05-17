@@ -21,7 +21,7 @@ of what each of the values mean.
  */
 
 export const info = {
-  resume: "https://drive.google.com/file/d/1iCssluOuNzMyuVPFJxIhZyNWQSCqc1si/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/12WjghYQhHVwgabTXcbWltFz1_zYe-Wxn/view?usp=drive_link",
   firstName: "Ankit ",
   lastName: "Kumar",
   initials: "AK", // the example uses first and last, but feel free to use three or more if you like.
